@@ -6,7 +6,7 @@ Code and example use of a trained CNN for extracting single- and bi-exponential 
 
 This repository is meant to accompany the paper published: (insert link here).
 
-Breshears, M.D., Giridharagopal, R., Ginger, D.S. Multi-Output Convolutional Neural Network for Improved Parameter Extraction in Time-Resolved Electrostatic Force Microscopy Data. *Submitted.* 2025.
+Breshears, M.D., Giridharagopal, R., Ginger, D.S. Multi-Output Convolutional Neural Network for Improved Parameter Extraction in Time-Resolved Electrostatic Force Microscopy Data. *Submitted.* 2025. https://doi.org/10.48550/arXiv.2502.03572.
 
 ## Instructions
 
